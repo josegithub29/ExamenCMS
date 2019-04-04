@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: radon\n"
+"POT-Creation-Date: 2017-08-15 15:05-0800\n"
+"PO-Revision-Date: 2017-08-15 15:05-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\themes\\wp-content\\themes\\radon\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\themes\\wp-content\\themes\\radon\n"
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/404.php:17
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/breadcrumbs/breadcrumbs.php:91
+msgid "404 Error"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/404.php:22
+msgid "Sorry! This page not founds."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/archive.php:35
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/index.php:28
+msgid "<<"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/archive.php:36
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/index.php:29
+msgid ">>"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-page.php:24
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/template-tags.php:61
+msgid "Posted by: "
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-page.php:27
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/template-tags.php:64
+msgid "Posted on: "
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-page.php:39
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-single.php:33
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-page.php:43
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content-single.php:37
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content.php:40
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions.php:156
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content.php:24
+msgid "Featured"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/content.php:33
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:58
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions.php:68
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/header.php:85
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/homepage-slider.php:36
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/homepage-slider.php:98
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/page.php:37
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/single.php:37
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/template-blog-fullwidth.php:38
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/template-page-full-width.php:38
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/homepage-slider.php:40
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/homepage-slider.php:102
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/page.php:34
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/single.php:34
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/template-blog-fullwidth.php:39
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/template-page-full-width.php:35
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/page.php:35
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/single.php:35
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/template-page-full-width.php:36
+msgid "Next post:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/page.php:38
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/single.php:38
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/template-page-full-width.php:39
+msgid "Previous post:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/breadcrumbs/breadcrumbs.php:11
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/breadcrumbs/breadcrumbs.php:22
+msgid "Archive by category"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-blog-settings.php:13
+msgid "Blogs Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-blog-settings.php:25
+msgid "Show Featured Image"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-blog-settings.php:26
+msgid "Check this setting to show featured images in posts."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-blog-settings.php:39
+msgid "Show post meta"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-blog-settings.php:40
+msgid "Check this setting to show post meta in posts."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:8
+msgid "General Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:13
+msgid "Top Header"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:25
+msgid "Top Header Icon 1"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:42
+msgid "Top Header Text 1"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:46
+msgid "+222 3333"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:58
+msgid "Top Header Icon 2"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:63
+msgid "fa-envelope"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:75
+msgid "Top Header Text 2"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:79
+msgid "info@example.com"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:91
+msgid "Header Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:95
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:107
+msgid "Header Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:111
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:123
+msgid "Header Linked In URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:127
+msgid "Linked-In URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:139
+msgid "Header Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:143
+msgid "Google+ URL"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:155
+msgid "Enable Target"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:156
+msgid "Check this setting to open window in new tab."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:169
+msgid "Hide Top Header bar"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:170
+msgid ""
+"Check this for hiding top header bar that shows before navigation menus."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:177
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:189
+msgid "Boxed Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:190
+msgid "Check this setting to show your website with boxed layout."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:197
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:209
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:210
+msgid "Add your credit text or link in bottom of footer area."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:223
+msgid "Show Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:224
+msgid ""
+"Check this setting for show social icons in footer part that display bottom "
+"of footer widgets."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:237
+msgid "Footer social icon title"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:238
+msgid "Enter text for footer social icons title"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:251
+msgid "Enable Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-general-settings.php:252
+msgid "Check this setting to show footer menu links."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:59
+msgid "Home Page Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:65
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:251
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:375
+msgid "Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:78
+msgid "Enable Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:91
+msgid "Slider Animation Type"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:108
+msgid "Slider Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:128
+msgid "Slider Content"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:141
+msgid "Select category to show slides"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:152
+msgid "Home Page Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:157
+msgid "Service Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:171
+msgid "Enable Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:178
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:271
+msgid "Section Header"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:191
+msgid "Service Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:204
+msgid "Service Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:211
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:336
+msgid "Section Background"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:223
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:347
+msgid "Section Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:237
+msgid "Service Section Image"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:238
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:363
+msgid "Upload your background image minimum size ( 1600 x 900 )."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:246
+msgid "Home Page News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:264
+msgid "Enable News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:283
+msgid "News Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:296
+msgid "News Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:303
+msgid "Section Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:315
+msgid "News No Of Show"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:328
+msgid "News Category Show"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:361
+msgid "News Section Image"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:370
+msgid "Home Page Contact Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:389
+msgid "Enable Contact Section"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:402
+msgid "Column Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:414
+msgid "Contact Header"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:427
+msgid "Contact Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-homepage-settings.php:440
+msgid "Contact Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-page-settings.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-page-settings.php:25
+msgid "Show featured image"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-page-settings.php:26
+msgid "Check this setting to show featured image of pages."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-page-settings.php:39
+msgid "Show Post Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/customizer/radon-page-settings.php:40
+msgid "Check this setting to display post meta in pages."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-contact-widget.php:15
+msgid "Radon : Contact Info Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-contact-widget.php:17
+msgid ""
+"Contact Info Widget to show your contact information like : Address,Phone,"
+"website"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-contact-widget.php:45
+msgid "Contact Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-contact-widget.php:50
+msgid "Contact Info Label:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-contact-widget.php:55
+msgid "Contact Info Text:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:15
+msgid "Radon : Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:17
+msgid "Radon Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:77
+msgid "Service Icon: { like: fa-cloud } "
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:77
+msgid "Click Here!"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:82
+msgid "Service Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:87
+msgid "Service Description:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:92
+msgid "Service Button Text:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:97
+msgid "Service Button Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/radon-service-widget.php:102
+msgid "Open in new tab:"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:13
+msgid "Primary Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:15
+msgid "The primary widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:23
+msgid "Home Page Service Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:25
+msgid "Drag service widget to show your services in home page."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:33
+msgid "Home Page Contact Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:35
+msgid "Drag contact widget to show contact informations."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:43
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:45
+msgid "The footer sidebar widget area 1"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:53
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:55
+msgid "The footer sidebar widget area 2"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:63
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:65
+msgid "The footer sidebar widget area 3"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:73
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:75
+msgid "The footer sidebar widget area 4"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:83
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/functions/widget/sidebar.php:85
+msgid "Woocommerce widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:6
+msgid "About Radon Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:19
+msgid "Welcome To Our"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:21
+msgid "Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:41
+msgid "Have a problem with our theme?"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:42
+msgid ""
+"If you any problem regarding our Radon Theme. please contact us to click on "
+"Support button."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:44
+msgid "Support"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:48
+msgid "If you Love it."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:49
+msgid ""
+"If you like our Radon Theme and support kindly share us your feedback to "
+"click on Feedback button."
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:51
+msgid "Feedback"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:57
+msgid "Compaire Our Free and Premium Theme Version"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:62
+msgid "Features"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:63
+msgid "Free Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:64
+msgid "Premium Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:148
+msgid "Get More Features of Radon Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\themes\wp-content\themes\radon/include/about-theme/welcome-screen.php:150
+msgid "Upgrade To Pro"
+msgstr ""

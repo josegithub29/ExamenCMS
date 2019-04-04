@@ -1,0 +1,266 @@
+::selection,
+	#rdn-top-header,
+	.dropdown-menu > .active > a, 
+	.dropdown-menu > .active:hover > a, 
+	.dropdown-menu > .active:focus > a, 
+	.navbar-default .navbar-nav > .open > a, 
+	.navbar-default .navbar-nav > .open:hover > a, 
+	.navbar-default .navbar-nav > .open:focus > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > li:hover > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > li:focus > a,
+	.carousel-control:hover,
+	.carousel-indicators .active,
+	#rdn-callout,
+	.section-desc:before,
+	.rdn-service-icon,
+	.more-link:hover, 
+	.more-link:focus,
+	.rdn-portfolio-tabs .active,
+	.carousel-control-testi.left:hover, 
+	.carousel-control-testi.left:focus,  
+	.carousel-control-testi.right:hover, 
+	.carousel-control-testi.right:focus,
+	.team-more-link,
+	.rdn-page-social li:hover,
+	button:hover,
+	button:focus,
+	input[type="button"]:hover,
+	input[type="button"]:focus,
+	input[type="reset"]:hover,
+	input[type="reset"]:focus,
+	input[type="submit"]:hover,
+	input[type="submit"]:focus,
+	.widget .widget-title:after, 
+	.widget_search .search-submit,  
+	.widget_calendar #wp-calendar caption, 
+	.widget_calendar tbody a, 
+	.widget_calendar tbody a:hover, 
+	.widget_calendar tbody a:focus,
+	.tagcloud a:hover,
+	.tagcloud a:focus,
+	.footer-social-icons li:hover,
+	.pagination .current a, 
+	.pagination .current:hover a, 
+	.pagination .current:focus a,
+	.pagination li:hover a, 
+	.pagination li:focus a,
+	.nav-links li span.current,
+	.nav-links li:hover span.current, 
+	.nav-links li:focus span.current,
+	.page-links > a:hover,
+	.woocommerce #respond input#submit.alt, 
+	 .woocommerce a.button.alt, 
+	 .woocommerce button.button.alt, 
+	 .woocommerce input.button.alt,
+	 .woocommerce #respond input#submit.alt:hover, 
+	 .woocommerce a.button.alt:hover, 
+	 .woocommerce button.button.alt:hover, 
+	 .woocommerce input.button.alt:hover,
+	 .woocommerce #respond input#submit.disabled:hover, 
+	 .woocommerce #respond input#submit:disabled:hover, 
+	 .woocommerce #respond input#submit:disabled[disabled]:hover, 
+	 .woocommerce a.button.disabled:hover, 
+	 .woocommerce a.button:disabled:hover, 
+	 .woocommerce a.button:disabled[disabled]:hover, 
+	 .woocommerce button.button.disabled:hover, 
+	 .woocommerce button.button:disabled:hover, 
+	 .woocommerce button.button:disabled[disabled]:hover, 
+	 .woocommerce input.button.disabled:hover, 
+	 .woocommerce input.button:disabled:hover, 
+	 .woocommerce input.button:disabled[disabled]:hover,
+	 .woocommerce #respond input#submit.disabled, 
+	 .woocommerce #respond input#submit:disabled, 
+	 .woocommerce #respond input#submit:disabled[disabled], 
+	 .woocommerce a.button.disabled, .woocommerce a.button:disabled, 
+	 .woocommerce a.button:disabled[disabled], 
+	 .woocommerce button.button.disabled, 
+	 .woocommerce button.button:disabled, 
+	 .woocommerce button.button:disabled[disabled], 
+	 .woocommerce input.button.disabled, 
+	 .woocommerce input.button:disabled, 
+	 .woocommerce input.button:disabled[disabled],
+	 .woocommerce #respond input#submit, 
+	 .woocommerce a.button, 
+	 .woocommerce button.button, 
+	 .woocommerce input.button,
+	 #add_payment_method .wc-proceed-to-checkout a.checkout-button, 
+	 .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, 
+	 .woocommerce-checkout .wc-proceed-to-checkout a.checkout-button,
+	 .woocommerce span.onsale,
+	 .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+	 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+	 .rdn_page_scroll,
+	 .post-style-header,
+	 .pricing_wrapper.active,
+	 .pricing_wrapper .pricing_footer a,
+	 .home-news-date,
+	 .client-navigation .carousel-control-client,
+	 .contact-icon .fa{ 
+		background-color: #a031d8; 
+	}
+
+	.navbar-default .navbar-nav > .current_menu_item > a:after,
+	.navbar-default .navbar-nav > .active > a:after, 
+	.navbar-default .navbar-nav > li:hover > a:after, 
+	.navbar-default .navbar-nav > li:focus > a:after,
+	a,
+	a:hover,
+	a:focus,
+	a:active,
+	.navbar-default .navbar-nav > .current_page_item > a:after,
+	.carousel-control,
+	.carousel-caption .rdn-slider-btn,
+	.rdn-callout-btn:hover,
+	.rdn-service-btn,
+	.rdn-service-btn:hover,
+	.more-link,
+	.rdn-portfolio-tabs li a,
+	.testimonial-content:before, 
+	.testimonial-content:after, 
+	.testimonial-title,
+	.carousel-control-testi.left .fa, 
+	.carousel-control-testi.right .fa,
+	.team-title h3, 
+	.team-title:hover h3,
+	.team-title:focus h3,
+	.contact_section_heading,
+	.entry-title a:hover,
+	.entry-title a:focus, 
+	.entry-meta span a:hover, 
+	.entry-meta span a:focus,
+	button,
+	button[disabled]:hover,
+	button[disabled]:focus,
+	input[type="button"],
+	input[type="button"][disabled]:hover,
+	input[type="button"][disabled]:focus,
+	input[type="reset"],
+	input[type="reset"][disabled]:hover,
+	input[type="reset"][disabled]:focus,
+	input[type="submit"],
+	input[type="submit"][disabled]:hover,
+	input[type="submit"][disabled]:focus,
+	#rdn-footer .widget li a:hover, 
+	#rdn-footer .widget li a:focus, 
+	#rdn-footer .widget li a:active, 
+	.widget .news-title a:hover, 
+	.widget .news-title a:focus,.widget-title a, 
+	.widget-title a:hover,  
+	.widget-title a:focus, 
+	.widget  li  a:hover, 
+	.widget  li  a:focus,  
+	.widget li:before, 
+	.widget_calendar #wp-calendar th, 
+	.tagcloud a, 
+	.widget_text a:hover, 
+	.widget_text a:focus, 
+	#rdn-footer .widget .news-title a:hover, 
+	#rdn-footer .widget .news-title a:focus,
+	.rdn-copyright p > a, 
+	.rdn-copyright p > a:hover, 
+	.rdn-copyright p > a:focus,
+	.rdn-footer-menu li a:hover, 
+	.rdn-footer-menu li a:focus,
+	#rdn-footer .widget a:hover, 
+	#rdn-footer .widget a:focus,
+	.rdn-sub-header li .active, 
+	.rdn-sub-header ul li:before,
+	.reply:before,
+	.pagination li a,
+	.page-links a,
+	.entry-style-date span strong,
+	.rdn-slider-title > strong,
+	.pricing_wrapper .pricing_price .price_content strong,
+	.rdn-sub-header ul li a{ 
+		color: #a031d8; 
+	}
+
+	.navbar-default .navbar-nav > li:hover > a, 
+	.navbar-default .navbar-nav > li:focus > a, 
+	.navbar-default .navbar-nav > .active > a, 
+	.navbar-default .navbar-nav > .active:hover > a, 
+	.navbar-default .navbar-nav > .active:focus > a, 
+	.navbar-default .navbar-nav > .current_menu_item > a, 
+	.navbar-default .navbar-nav > .current_menu_item:hover > a, 
+	.navbar-default .navbar-nav > .current_menu_item:focus > a, 
+	.navbar-default .navbar-nav > .current_page_item > a,
+	.navbar-default .navbar-nav > .open:hover > a, 
+	.navbar-default .navbar-nav > .open:focus > a{
+		background-color: #a031d8;
+	}
+
+	.dropdown-menu{
+		border-top: 1px solid #a031d8;
+	}
+	
+	input[type="text"],
+	input[type="email"],
+	input[type="url"],
+	input[type="password"],
+	input[type="search"],
+	input[type="tel"],
+	input[type="number"],
+	textarea,
+	.dropdown-menu	{
+		border-bottom: 1px solid #a031d8;
+	}
+	
+	.carousel-control,
+	.carousel-control:hover,
+	.rdn-page-social li:hover,
+	.pagination li a, 
+	.pagination li a:hover, 
+	.pagination li a:focus,
+	.nav-links li span.current, 
+	.nav-links li:hover span.current, 
+	.nav-links li:focus span.current,
+	.page-links a{ 
+		border: 1px solid #a031d8; 
+	}
+	
+	.carousel-caption .rdn-slider-btn,
+	.more-link,
+	button,
+	button[disabled]:hover,
+	button[disabled]:focus,
+	input[type="button"],
+	input[type="button"][disabled]:hover,
+	input[type="button"][disabled]:focus,
+	input[type="reset"],
+	input[type="reset"][disabled]:hover,
+	input[type="reset"][disabled]:focus,
+	input[type="submit"],
+	input[type="submit"][disabled]:hover,
+	input[type="submit"][disabled]:focus{ 
+		border: 1px solid #a031d8; 
+	}
+	
+	.nav .open > a, .nav .open > a:hover, .nav .open > a:focus{
+		border-color: #a031d8;
+	}
+
+	.rdn-service-btn,.rdn-service-btn:hover{ 
+		background-image: -webkit-gradient(linear, left bottom, left top, from(transparent), color-stop(0.0625em, transparent), color-stop(0.0625em, #a031d8), color-stop(0.125em, #a031d8), color-stop(0.125em, transparent));
+
+		background-image: linear-gradient(to top, transparent, transparent 0.0625em, #a031d8 0.0625em, #a031d8 0.125em, transparent 0.125em);
+	}
+
+	.portfolio-overlay{ 
+		background:-moz-linear-gradient( transparent 0%, #a031d8 100% );
+		background:-webkit-linear-gradient( transparent 0%, #a031d8 100% );
+		background:-o-linear-gradient( transparent 0%, #a031d8 100% );
+	}
+
+	.rdn-team-area:hover .team-thumbnail img,
+	.entry-style-date span strong{
+		border:5px solid #a031d8;
+	}
+
+	blockquote { border-left: 4px solid #a031d8; }
+	
+	.rdn-sub-header ul li:first-child:before{ display:none; }
+	
+	.comments-title:after, 
+	.comment-reply-title:after{
+		border-bottom:1px solid #a031d8;
+	}

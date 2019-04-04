@@ -1,0 +1,1172 @@
+# Translation of Themes - AccessPress Parallax in Spanish (Spain)
+# This file is distributed under the same license as the Themes - AccessPress Parallax package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-05 20:19:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - AccessPress Parallax\n"
+
+#. Description of the theme
+msgid "AccessPress Parallax is a beautiful WordPress theme with Parallax design. Parallax design has become popular and is widely implemented these days. This is probably the most beautiful, feature rich and complete free WordPress parallax theme with features like: fully responsive, advance theme option panel, featured slider, advance post settings, services/team/blog/portfolio/testimonial layout, Google map integration, custom logo/fav icon, call to action, CSS animation, SEO friendly, translation ready, RTL support, custom CSS/JS and more! More over the theme is fully translation ready, WooCommerce Compatible, bbPress Compatible and fully support multilanguage via POLYLANG plugin. Demo: https://accesspressthemes.com/theme-demos/?theme=accesspress-parallax Support forum: https://accesspressthemes.com/support/ Pro version: https://accesspressthemes.com/wordpress-themes/accesspress-parallax-pro/"
+msgstr "AccessPress Parallax es un hermoso tema de WordPress con diseño de Parallax. El diseño de Parallax se ha vuelto popular y es ampliamente implementado hoy en día. Este es probablemente el tema de paralaje de WordPress más hermoso, rico en características y completo, con características como: panel de opciones de temas avanzados, carrusel destacado, configuración avanzada en entradas, servicios/equipo/blog/portafolio/mapa de testimonios, integración de mapas de Google, logo personalizado/favicono, llamada a la acción, animación CSS, adaptado para SEO, listo para traducción, soporte RTL, soporte de CSS/JS personalizado y mucho más! Además el tema está totalmente listo para la traducción, compatible con WooCommerce, bbPress y totalmente compatible con multilenguaje a través del plugin POLYLANG. Demo: https://accesspressthemes.com/theme-demos/?theme=accesspress-parallax Foro de soporte: https://accesspressthemes.com/support/ Versión Pro: https://accesspressthemes.com/wordpress-themes/accesspress-parallax-pro/"
+
+#. Theme Name of the theme
+msgid "AccessPress Parallax"
+msgstr "AccessPress Parallax"
+
+#: header.php:49
+msgid "Home Text in Menu"
+msgstr "Texto de inicio en el menú"
+
+#: inc/accesspress-options.php:100
+msgid "Set the template color for the site."
+msgstr "Establece el color de plantilla para el sitio."
+
+#: inc/accesspress-options.php:99
+msgid "Template Color"
+msgstr "Color de plantilla"
+
+#: welcome/welcome.php:50
+msgid "More WordPress Stuff"
+msgstr "Más cosas de WordPress"
+
+#: welcome/sections/more_wp_stuff.php:32
+msgid "45+ premium WordPress plugins of many different types. High user ratings, great quality and best sellers in CodeCanyon marketplace."
+msgstr "Más de 45 plugins premium de WordPress de diferentes tipos. Altas calificaciones de usuario, gran calidad y los más vendidos en el mercado de CodeCanyon."
+
+#: welcome/sections/more_wp_stuff.php:31
+msgid "Premium WordPress Plugins"
+msgstr "Plugins Premium de WordPress"
+
+#: welcome/sections/more_wp_stuff.php:26
+msgid "6 premium WordPress themes well suited for all sort of websites. Professional, well coded and highly configurable themes for you."
+msgstr "6 temas premium de WordPress muy adecuados para todo tipo de sitios web. Temas profesionales, bien codificados y altamente configurables para ti."
+
+#: welcome/sections/more_wp_stuff.php:25
+msgid "Premium WordPress Themes"
+msgstr "Temas Premium de WordPress"
+
+#: welcome/sections/more_wp_stuff.php:16
+msgid "8Degree Themes offers 15+ free WordPress themes and 16+ premium WordPress themes  carefully crafted with creativity."
+msgstr "8Degree Themes ofrece más de 15 temas gratuitos de WordPress y más de 16 temas premium de WordPress cuidadosamente elaborados con creatividad."
+
+#: welcome/sections/more_wp_stuff.php:15
+msgid "8Degree Themes"
+msgstr "8Degree Themes"
+
+#: welcome/sections/more_wp_stuff.php:10
+msgid "AccessPress Themes has 50+ beautiful and elegant, fully responsive, multipurpose themes to meet your need for free and commercial basis."
+msgstr "AccessPress Themes tiene más de 50 temas hermosos y elegantes, totalmente receptivos y multiusos para satisfacer su necesidad de una base comercial y gratuita."
+
+#: welcome/sections/more_wp_stuff.php:5 welcome/sections/more_wp_stuff.php:11
+#: welcome/sections/more_wp_stuff.php:17 welcome/sections/more_wp_stuff.php:27
+#: welcome/sections/more_wp_stuff.php:33
+msgid "Explore"
+msgstr "Explorar"
+
+#: welcome/sections/more_wp_stuff.php:4
+msgid "A complete WordPress resources club. WordPress tutorials, blogs, curated free and premium themes and plugins, WordPress deals, offers, hosting info and more."
+msgstr "Un completo club de recursos de WordPress. Tutoriales de WordPress, blogs, temas y plugins gratuitos y de primera calidad, ofertas de WordPress, información de alojamiento y mucho más."
+
+#: welcome/sections/more_wp_stuff.php:3
+msgid "WPAll Club"
+msgstr "WPAll Club"
+
+#. translators: %s: Plugin Name.
+#: welcome/welcome.php:453
+msgid "There was an error activating %s"
+msgstr "Ocurrió un error al activar: %s"
+
+#. translators: %s: Plugin Name.
+#: welcome/welcome.php:447
+msgid "%s successfully activated."
+msgstr "%s activado correctamente."
+
+#: welcome/welcome.php:409
+msgid "Plugin Doesn't Exists"
+msgstr "El plugin no existe"
+
+#. translators: Tag List
+#: content-search.php:48
+msgid "Tagged %s"
+msgstr "Etiquetado %s"
+
+#. translators: Category List
+#: content-search.php:36
+msgid "Posted in %s"
+msgstr "Publicado en %s"
+
+#: welcome/sections/free_vs_pro.php:221
+msgid "Zero"
+msgstr "Zero"
+
+#. translators: 1: title.
+#: comments.php:33
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un pensamiento en &ldquo;%1$s&rdquo;"
+
+#: inc/accesspress-options.php:251
+msgid "Show Slider Arrows"
+msgstr "Mostrar flechas en la presentación"
+
+#: inc/accesspress-options.php:244
+msgid "Show Slider Dots"
+msgstr "Mostrar puntos en la presentación"
+
+#: welcome/welcome.php:49
+msgid "Free vs Pro"
+msgstr "Gratis vs PRO"
+
+#: welcome/sections/getting_started.php:10
+msgid "Step 2 - Theme Options Panel"
+msgstr "Paso 2 - Panel de opciones del tema"
+
+#: welcome/sections/free_vs_pro.php:269
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: welcome/sections/free_vs_pro.php:266
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr "Mejora a la versión Pro para obtener funciones adicionales y mejor soporte."
+
+#: welcome/sections/free_vs_pro.php:265
+msgid "Upgrade to Pro"
+msgstr "Mejora a PRO"
+
+#: welcome/sections/free_vs_pro.php:254
+msgid "Google will love it."
+msgstr "A Google le encantará."
+
+#: welcome/sections/free_vs_pro.php:253
+msgid "SEO Optimized"
+msgstr "Optimizado para SEO"
+
+#: welcome/sections/free_vs_pro.php:242
+msgid "Yes - Stop your WooCommerce theme search here."
+msgstr "Sí - Detén tu búsqueda de temas de WooCommerce aquí."
+
+#: welcome/sections/free_vs_pro.php:241
+msgid "Fully WooCommerce Compatible"
+msgstr "Totalmente compatible con WooCommerce"
+
+#: welcome/sections/free_vs_pro.php:236
+msgid "16"
+msgstr "16"
+
+#: welcome/sections/free_vs_pro.php:230
+msgid "Create a feature rich page in an instant using the inbuilt widgets."
+msgstr "Crea una página rica en funciones en un instante utilizando los widgets incorporados."
+
+#: welcome/sections/free_vs_pro.php:229
+msgid "Inbuilt Widgets"
+msgstr "Widgets incorporados"
+
+#: welcome/sections/free_vs_pro.php:224
+msgid "13"
+msgstr "13"
+
+#: welcome/sections/free_vs_pro.php:218
+msgid "Build feature rich pages using beautiful inbuilt shortcodes."
+msgstr "Construye páginas ricas en características usando hermosos shortcode incorporados."
+
+#: welcome/sections/free_vs_pro.php:217
+msgid "Inbuilt Shortcodes"
+msgstr "Shortcodes incorporados"
+
+#: welcome/sections/free_vs_pro.php:206
+msgid "Set the fonts for your website from available 600+ Google Fonts."
+msgstr "Configura las fuentes de tu sitio web a partir de las más de 600 fuentes de Google disponibles."
+
+#: welcome/sections/free_vs_pro.php:205
+msgid "Typography Option"
+msgstr "Tipografía"
+
+#: welcome/sections/free_vs_pro.php:194
+msgid "Choose to display either solid color, pattern or image as a background for your website."
+msgstr "Elige mostrar colores sólidos, patrones o imágenes como fondo para tu web."
+
+#: welcome/sections/free_vs_pro.php:193
+msgid "Multiple Background Option"
+msgstr "Opción de fondo múltiple"
+
+#: welcome/sections/free_vs_pro.php:182
+msgid "Customize breadcrumb to display the way you want with advanced options to customize."
+msgstr "Personaliza las migas de pan para que se muestren de la forma que quieras con opciones avanzadas para personalizarlas."
+
+#: welcome/sections/free_vs_pro.php:181
+msgid "Advanced Breadcrumb Settins"
+msgstr "Ajueste avanzados de migas de pan"
+
+#: welcome/sections/free_vs_pro.php:173 welcome/sections/free_vs_pro.php:233
+msgid "1"
+msgstr "1"
+
+#: welcome/sections/free_vs_pro.php:170
+msgid "Choose anyone layout for your portfolio page from the multiple portfolio layouts."
+msgstr "Elige cualquier diseño para tu página de portfolio de entre los múltiples diseños de portfolio."
+
+#: welcome/sections/free_vs_pro.php:169
+msgid "Multiple Portfolio Layout"
+msgstr "Múltiples diseños de portfolio"
+
+#: welcome/sections/free_vs_pro.php:158
+msgid "Have variation amongst the pages choosing the layout from the multiple page layouts."
+msgstr "Consigue variación entre las páginas eligiendo el diseño de entre los múltiples diseños de página."
+
+#: welcome/sections/free_vs_pro.php:157
+msgid "Multiple Page Layout"
+msgstr "Múltiples diseños de página"
+
+#: welcome/sections/free_vs_pro.php:146
+msgid "Have a new interactive sections with cool animation effects."
+msgstr "Consigue una nueva sección interactiva con efectos de animación."
+
+#: welcome/sections/free_vs_pro.php:145
+msgid "Cool Animation Effects"
+msgstr "Efectos de animación geniales"
+
+#: welcome/sections/free_vs_pro.php:134
+msgid "Have advanced parallax scrolling with css3 animation in your website."
+msgstr "Obtén desplazamiento avanzado de paralaje con animación css3 en tu web."
+
+#: welcome/sections/free_vs_pro.php:133
+msgid "Advance Parallax Scrolling"
+msgstr "Desplazamiento de paralaje avanzado"
+
+#: welcome/sections/free_vs_pro.php:122
+msgid "Integrate a feature rich slider in your website."
+msgstr "Integra un carrusel rico en funciones en tu web."
+
+#: welcome/sections/free_vs_pro.php:121
+msgid "Supports Revolution Slider"
+msgstr "Compatible con Revolution Slider"
+
+#: welcome/sections/free_vs_pro.php:116
+msgid "4"
+msgstr "4"
+
+#: welcome/sections/free_vs_pro.php:113 welcome/sections/free_vs_pro.php:176
+msgid "2"
+msgstr "2"
+
+#: welcome/sections/free_vs_pro.php:110
+msgid "Choose any header layout for the site from the available multiple header layouts."
+msgstr "Elige cualquier estructura de cabecera para el sitio de entre los múltiples diseños disponibles."
+
+#: welcome/sections/free_vs_pro.php:109
+msgid "Header Layouts"
+msgstr "Diseños de cabecera"
+
+#: welcome/sections/free_vs_pro.php:98
+msgid "Configure a beautiful Featured Slider"
+msgstr "Configura un hermoso carrusel destacado"
+
+#: welcome/sections/free_vs_pro.php:97
+msgid "Featured Slider"
+msgstr "Carrusel destacado"
+
+#: welcome/sections/free_vs_pro.php:86
+msgid "Multi layer, smooth parallax! Add some interaction on your website, business sites also can be fun to browse!"
+msgstr "¡Paralaje suave multi-capa! ¡Añade algo de interacción en tu web, los sitios de negocios también pueden ser divertidos de navegar!"
+
+#: welcome/sections/free_vs_pro.php:85
+msgid "WOW Parallax"
+msgstr "WOW Parallax"
+
+#: welcome/sections/free_vs_pro.php:74
+msgid "Easily configure the theme using easy to configure theme options."
+msgstr "Configura fácilmente el tema mediante opciones de tema fáciles de configurar."
+
+#: welcome/sections/free_vs_pro.php:73
+msgid "Based on Theme Options Panel"
+msgstr "Basado en Theme Options Panel"
+
+#: welcome/sections/free_vs_pro.php:62
+msgid "Choose any theme skin color you like for your site."
+msgstr "Elige el color de piel que más te guste para tu sitio."
+
+#: welcome/sections/free_vs_pro.php:61
+msgid "Multiple Color Scheme"
+msgstr "Múltiples esquema de colores"
+
+#: welcome/sections/free_vs_pro.php:50
+msgid "Create the site in your own custom language."
+msgstr "Crea el sitio en tu propio idioma personalizado."
+
+#: welcome/sections/free_vs_pro.php:49
+msgid "Translation Ready"
+msgstr "Listo para traducir"
+
+#: welcome/sections/free_vs_pro.php:38
+msgid "Displays fine in device with different screen sizes."
+msgstr "Se muestra bien en dispositivos con diferentes tamaños de pantalla."
+
+#: welcome/sections/free_vs_pro.php:37
+msgid "Responsive Design"
+msgstr "Diseño adaptable"
+
+#: welcome/sections/free_vs_pro.php:26
+msgid "Tired of configuring site from scratch. Installation of demo is just one click away."
+msgstr "Cansado de configurar el sitio desde cero. La instalación de la demo está a sólo un clic de distancia."
+
+#: welcome/sections/free_vs_pro.php:25
+msgid "Demo Import."
+msgstr "Importación de demostraciones."
+
+#: welcome/sections/free_vs_pro.php:21
+msgid "Pro"
+msgstr "Pro"
+
+#: welcome/sections/free_vs_pro.php:20
+msgid "Free"
+msgstr "Gratis"
+
+#: welcome/sections/free_vs_pro.php:19
+msgid "Features"
+msgstr "Características"
+
+#: welcome/sections/free_vs_pro.php:14
+msgid "Keep upto date"
+msgstr "Mantente al día"
+
+#: welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFE TIME"
+msgstr "ACTUALIZACIONES GRATUITAS DE POR VIDA"
+
+#: welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr "LICENCIA PARA DOMINIOS ILIMITADOS"
+
+#: welcome/sections/free_vs_pro.php:9
+msgid "Use in as many website as you need"
+msgstr "Utilízalo en tantos sitios web como necesites"
+
+#: welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr "No necesita renovación"
+
+#: welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr "PAGO ÚNICO"
+
+#: welcome/sections/getting_started.php:12
+msgid "Go to Theme Options Panels"
+msgstr "Ir a los paneles de opciones del tema"
+
+#: welcome/sections/getting_started.php:6
+msgid "Read Documentation"
+msgstr "Leer documentación"
+
+#: welcome/sections/getting_started.php:5
+msgid "Read the detailed documentation of the theme. The documentation contain all the necessary information required to setup the theme AccessPress Parallax."
+msgstr "Lee la documentación detallada del tema. La documentación contiene toda la información necesaria para configurar el tema AccessPress Parallax."
+
+#: welcome/sections/getting_started.php:4
+msgid "Step 1 - Documentation"
+msgstr "Paso 1 - Documentación"
+
+#: welcome/welcome.php:542
+msgid "Parallax Demo"
+msgstr "Demostración de Parallax"
+
+#: welcome/welcome.php:420
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "Lo siento, no tienes permisos para activar plugins para este sitio."
+
+#: welcome/welcome.php:340 welcome/welcome.php:427
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Error: no se puede verificar el nonce, inténtalo de nuevo."
+
+#: welcome/welcome.php:332
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Lo siento, no tienes permisos para instalar plugins en este sitio."
+
+#: welcome/welcome.php:225
+msgid "Are you sure to import demo content ?"
+msgstr "¿Estás seguro de importar contenido de demostración?"
+
+#: welcome/welcome.php:224
+msgid "Demo Installed"
+msgstr "Demostración instalada"
+
+#: welcome/welcome.php:223
+msgid "Installing Demo"
+msgstr "Instalando la demo"
+
+#: welcome/welcome.php:222
+msgid "Activated"
+msgstr "Activado"
+
+#. translators: Theme Name
+#: welcome/welcome.php:175
+msgid "%s is a beautiful WordPress theme with Parallax design. Parallax design has become popular and is widely implemented these days. This is probably the most beautiful, feature rich and complete free WordPress parallax theme with useful features."
+msgstr "%s es un hermoso tema de WordPress con diseño de Parallax. El diseño de Parallax se ha vuelto popular y es ampliamente implementado hoy en día. Este es probablemente el tema de paralaje de WordPress más hermoso, rico en características y completo, con características útiles."
+
+#. translators: 1.Theme Name 2. Theme version
+#: welcome/welcome.php:172
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenido a %1$s - Versión %2$s"
+
+#: welcome/welcome.php:158
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: welcome/welcome.php:149
+msgid "Lets Get Started"
+msgstr "Empecemos"
+
+#: welcome/welcome.php:48
+msgid "Support"
+msgstr "Ayuda"
+
+#: welcome/welcome.php:47
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: welcome/welcome.php:46
+msgid "Getting Started"
+msgstr "Cómo comenzar"
+
+#: welcome/welcome.php:39
+msgid "Instant Demo Importer Plugin adds the feature to Import the Demo Conent with a single click."
+msgstr "El plugin Instant Demo Importer añade la funcionalidad para importar contenido de demostración con sólo un clic."
+
+#: welcome/welcome.php:33
+msgid "Instant Demo Importer"
+msgstr "Importador instantánea de demos"
+
+#: welcome/sections/support.php:33
+msgid "View More"
+msgstr "Mostrar Más"
+
+#: welcome/sections/support.php:32
+msgid "Want to learn some more on themes ? Visit the following link for more information on latest articles on themes and plugins."
+msgstr "¿Quieres saber más sobre los temas? Visita el siguiente enlace para obtener más información sobre los últimos artículos sobre temas y plugins."
+
+#: welcome/sections/support.php:31
+msgid "More WordPress Resources"
+msgstr "Más recursos de WordPress"
+
+#: welcome/sections/support.php:26
+msgid "No matter how many efforts you have made in making a website, it is of no use if the users do not find it appealing. If the visitors are leaving you in few seconds. Learn how to attract the new visitors and keep the old visitors following this very very article"
+msgstr "No importa cuántos esfuerzos hayas hecho para hacer un sitio web, no sirve de nada si los usuarios no lo encuentran atractivo. Si los visitantes se van en unos segundos. Aprende cómo atraer a los nuevos visitantes y mantener a los antiguos visitantes siguiendo este mismo artículo"
+
+#: welcome/sections/support.php:25
+msgid "Attract More Customers to Your Site"
+msgstr "Atrae más clientes a tu web"
+
+#: welcome/sections/support.php:21 welcome/sections/support.php:27
+msgid "Read Full Article"
+msgstr "Leer artículo completo"
+
+#: welcome/sections/support.php:20
+msgid "Without a good design, a site just looks lame, hence decreasing the site visitors. That is why you should care a lot about how your WordPress blog looks. If you wanna learn more on why visuals matters for site traffic follow the below link"
+msgstr "Sin un buen diseño, un sitio simplemente se ve cojo, por lo tanto disminuyendo los visitantes del sitio. Es por eso que debes preocuparte mucho por cómo se ve tu blog de WordPress. Si quieres saber más sobre por qué las imágenes son importantes para el tráfico del sitio, sigue el siguiente enlace"
+
+#: welcome/sections/support.php:19
+msgid "Visuals Matters for Site Traffic"
+msgstr "Las imágenes son importantes para el tráfico del sitio"
+
+#: welcome/sections/support.php:12
+msgid "Still having problem after reading all the documentation? No Problem!! Please create a support ticket. Our dedicated support team will help you to solve your problem"
+msgstr "¿Todavía tienes problemas después de leer toda la documentación? ¡¡No hay problema!! Por favor, crea un ticket de soporte. Nuestro dedicado equipo de soporte te ayudará a resolver tu problema"
+
+#: welcome/sections/support.php:11 welcome/sections/support.php:13
+msgid "Create Support Tickets"
+msgstr "Crear tickets de soporte"
+
+#: welcome/sections/support.php:7
+msgid "Read Full Documentation"
+msgstr "Leer la documentación completa"
+
+#. translators: Theme Name
+#: welcome/sections/support.php:6
+msgid "Read the detailed documentation of the theme. The documentation contain all the necessary information required to setup the theme %s."
+msgstr "Lea la documentación detallada del tema. La documentación contiene toda la información necesaria para configurar el tema %s."
+
+#: welcome/sections/support.php:3
+msgid "Documentation"
+msgstr "Documentación"
+
+#: welcome/sections/recommended_plugins.php:67
+msgid "These Free Plugins might be handy for you."
+msgstr "Estos Plugins Gratuitos pueden resultarte útiles."
+
+#: welcome/sections/recommended_plugins.php:66
+msgid "Free Plugins"
+msgstr "Plugins gratuitos"
+
+#: welcome/sections/recommended_plugins.php:11
+msgid "Take Advantage of some of our Premium Plugins"
+msgstr "Aprovecha algunos de nuestros Plugins Premium"
+
+#: welcome/sections/recommended_plugins.php:10
+msgid "Pro Plugins"
+msgstr "Plugins Pro"
+
+#: welcome/sections/getting_started.php:11
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Con el Personalizador de WordPress podrás personalizar fácilmente cada aspecto del tema."
+
+#: welcome/sections/recommended_plugins.php:27
+#: welcome/sections/recommended_plugins.php:85
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: welcome/sections/recommended_plugins.php:21
+#: welcome/sections/recommended_plugins.php:80
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: single.php:21 single.php:22
+msgid "%title"
+msgstr "%título"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:177
+msgid "Demo"
+msgstr "Demostración"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:178
+msgid "Documentation/Video Tutorial"
+msgstr "Documentación/Videotutorial"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:203
+msgid "Upgrade to Parallax Pro"
+msgstr "Mejora a Parallax Pro"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:212
+msgid "Pro Features"
+msgstr "Características Pro"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "La página principal"
+
+#. translators: Search Title
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: layouts/googlemap-section.php:10
+msgid "Map"
+msgstr "Mapa"
+
+#. translators: Post Author
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "By %s"
+msgstr "Por %s"
+
+#: inc/options-framework/includes/class-options-sanitization.php:577
+msgid "Bold Italic"
+msgstr "Negrita y cursiva"
+
+#: inc/options-framework/includes/class-options-sanitization.php:576
+msgid "Bold"
+msgstr "Negrita"
+
+#: inc/options-framework/includes/class-options-sanitization.php:575
+msgid "Italic"
+msgstr "Cursiva"
+
+#: inc/options-framework/includes/class-options-sanitization.php:574
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/options-framework/includes/class-options-media-uploader.php:93
+msgid "View File"
+msgstr "Ver fichero"
+
+#: inc/options-framework/includes/class-options-media-uploader.php:69
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgrade your version of WordPress for full media support."
+
+#: inc/options-framework/includes/class-options-media-uploader.php:61
+msgid "No file chosen"
+msgstr "Ningún archivo seleccionado"
+
+#: inc/options-framework/includes/class-options-interface.php:558
+msgid "Add New Section"
+msgstr "Añadir nueva sección"
+
+#: inc/options-framework/includes/class-options-interface.php:422
+msgid "Page Title: "
+msgstr "Título de la página: "
+
+#: inc/options-framework/includes/class-options-framework-admin.php:306
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: inc/options-framework/includes/class-options-framework-admin.php:247
+msgid "Default options restored."
+msgstr "Opciones predeterminadas restablecidas."
+
+#: inc/options-framework/includes/class-options-framework-admin.php:196
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Haz clic en OK para restablecer. ¡Todas las opciones del tema que hayas configurado se perderán!"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:196
+msgid "Restore Defaults"
+msgstr "Restaurar valores predeterminados"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:195
+msgid "Save Options"
+msgstr "Guardar ajustes"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:173
+msgid "AccessPress Lite"
+msgstr "AccessPress Lite"
+
+#: inc/options-framework/includes/class-options-framework-admin.php:78
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/options-framework/includes/class-options-interface.php:549
+#: inc/options-framework/includes/class-options-media-uploader.php:66
+#: inc/options-framework/includes/class-options-media-uploader.php:118
+#: inc/ajax.php:119
+msgid "Remove"
+msgstr "Borrar"
+
+#: inc/options-framework/includes/class-options-interface.php:538
+#: inc/ajax.php:109
+msgid "Overlay"
+msgstr "Superponer"
+
+#: inc/options-framework/includes/class-options-sanitization.php:465
+#: inc/ajax.php:103
+msgid "Contain"
+msgstr "Contiene"
+
+#: inc/options-framework/includes/class-options-sanitization.php:464
+#: inc/ajax.php:102
+msgid "Cover"
+msgstr "Cubierta"
+
+#: inc/options-framework/includes/class-options-sanitization.php:463
+#: inc/ajax.php:101
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/options-framework/includes/class-options-sanitization.php:451
+#: inc/ajax.php:97
+msgid "Fixed in Place"
+msgstr "Fijar en su lugar"
+
+#: inc/options-framework/includes/class-options-sanitization.php:450
+#: inc/ajax.php:96
+msgid "Scroll Normally"
+msgstr "Desplazarse normalmente"
+
+#: inc/options-framework/includes/class-options-sanitization.php:438
+#: inc/ajax.php:92
+msgid "Bottom Right"
+msgstr "Abajo Derecha"
+
+#: inc/options-framework/includes/class-options-sanitization.php:437
+#: inc/ajax.php:91
+msgid "Bottom Center"
+msgstr "Abajo en el centro"
+
+#: inc/options-framework/includes/class-options-sanitization.php:436
+#: inc/ajax.php:90
+msgid "Bottom Left"
+msgstr "Abajo Izquierda"
+
+#: inc/options-framework/includes/class-options-sanitization.php:435
+#: inc/ajax.php:89
+msgid "Middle Right"
+msgstr "En medio a la derecha"
+
+#: inc/options-framework/includes/class-options-sanitization.php:434
+#: inc/ajax.php:88
+msgid "Middle Center"
+msgstr "En medio en el centro"
+
+#: inc/options-framework/includes/class-options-sanitization.php:433
+#: inc/ajax.php:87
+msgid "Middle Left"
+msgstr "En medio a la izquierda"
+
+#: inc/options-framework/includes/class-options-sanitization.php:432
+#: inc/ajax.php:86
+msgid "Top Right"
+msgstr "Arriba derecha"
+
+#: inc/options-framework/includes/class-options-sanitization.php:431
+#: inc/ajax.php:85
+msgid "Top Center"
+msgstr "Arriba en el centro"
+
+#: inc/options-framework/includes/class-options-sanitization.php:430
+#: inc/ajax.php:84
+msgid "Top Left"
+msgstr "Arriba izquierda"
+
+#: inc/options-framework/includes/class-options-sanitization.php:418
+#: inc/ajax.php:80
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+#: inc/options-framework/includes/class-options-sanitization.php:417
+#: inc/ajax.php:79
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: inc/options-framework/includes/class-options-sanitization.php:416
+#: inc/ajax.php:78
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: inc/options-framework/includes/class-options-sanitization.php:415
+#: inc/ajax.php:77
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: inc/options-framework/includes/class-options-interface.php:495
+#: inc/ajax.php:72
+msgid "Background Settings"
+msgstr "Ajustes de fondo"
+
+#: inc/options-framework/includes/class-options-interface.php:486
+#: inc/ajax.php:64
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/ajax.php:56
+msgid "Select a Category:"
+msgstr "Elige una categoría:"
+
+#: inc/options-framework/includes/class-options-interface.php:471
+#: inc/ajax.php:54
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/options-framework/includes/class-options-interface.php:459
+#: inc/ajax.php:39
+msgid "Layout"
+msgstr "Diseño de pantalla"
+
+#: inc/options-framework/includes/class-options-interface.php:453
+#: inc/ajax.php:34
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/options-framework/includes/class-options-interface.php:442
+#: inc/ajax.php:29
+msgid "Font Color"
+msgstr "Color de la tipografía"
+
+#: inc/ajax.php:21
+msgid "Select a page:"
+msgstr "Seleccione una página:"
+
+#: inc/options-framework/includes/class-options-interface.php:426
+#: inc/ajax.php:19
+msgid "Page"
+msgstr "Página"
+
+#: inc/ajax.php:15
+msgid "Page Title:"
+msgstr "Título de la página:"
+
+#: welcome/sections/recommended_plugins.php:33
+#: welcome/sections/recommended_plugins.php:90 welcome/welcome.php:221
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/accesspress-options.php:359
+msgid "Put your custom CSS here"
+msgstr "Pon aquí tu código CSS"
+
+#: inc/accesspress-options.php:356
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: inc/accesspress-options.php:352
+msgid "Tools"
+msgstr "Herramientas"
+
+#: inc/accesspress-options.php:347
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/accesspress-options.php:342
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/accesspress-options.php:337
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/accesspress-options.php:332
+msgid "Fickr"
+msgstr "Fickr"
+
+#: inc/accesspress-options.php:327
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/accesspress-options.php:322
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/accesspress-options.php:317
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/accesspress-options.php:312
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/accesspress-options.php:307
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/accesspress-options.php:302
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/accesspress-options.php:295
+msgid "Show Social Icon"
+msgstr "Mostrar Iconos Sociales"
+
+#: inc/accesspress-options.php:291
+msgid "Social Links"
+msgstr "Enlaces Sociales"
+
+#: inc/accesspress-options.php:284
+msgid "Show Caption"
+msgstr "Mostrar leyenda"
+
+#: inc/accesspress-options.php:278
+msgid "Slider Pause Duration"
+msgstr "Duración de la pausa del carrusel"
+
+#: inc/accesspress-options.php:272
+msgid "Slider Transition Speed"
+msgstr "Velocidad de transición del pase de diapositivas"
+
+#: inc/accesspress-options.php:265
+msgid "Slider Transition"
+msgstr "Transición del carrusel"
+
+#: inc/accesspress-options.php:258
+msgid "Auto Transition"
+msgstr "Transición automática"
+
+#: inc/accesspress-options.php:237
+msgid "Remove Slider overlay - Black Dots"
+msgstr "Eliminar la superposición del carrusel - Puntos negros"
+
+#: inc/accesspress-options.php:230
+msgid "Show full window"
+msgstr "Mostrar ventana completa"
+
+#: inc/accesspress-options.php:223
+msgid "Select a Category"
+msgstr "Elige una categoría"
+
+#: inc/accesspress-options.php:215
+msgid "Show Slider"
+msgstr "Mostrar proyector de diapositivas"
+
+#: inc/accesspress-options.php:211
+msgid "Slider Settings"
+msgstr "Slider Settings"
+
+#: inc/accesspress-options.php:203
+msgid "Show Prev Next Pagination"
+msgstr "Mostrar paginación Anterior Siguiente"
+
+#: inc/accesspress-options.php:196
+msgid "Show Post Footer text"
+msgstr "Mostrar texto al pie de página de entrada"
+
+#: inc/accesspress-options.php:189
+msgid "Show Post Author"
+msgstr "Mostrar el autor de la entrada"
+
+#: inc/accesspress-options.php:182
+msgid "Show Posted Date"
+msgstr "Mostrar fecha de publicación"
+
+#: inc/accesspress-options.php:178
+msgid "Post Settings"
+msgstr "Opciones de Entradas"
+
+#: inc/accesspress-options.php:153
+msgid "<strong>Note: Please make a new page before you create a section. Each Section should have unique Page.</strong>"
+msgstr "<strong>Nota: Por favor, crea una nueva página antes de crear una sección. Cada Sección debe tener una Página única.</strong>"
+
+#: inc/accesspress-options.php:149
+msgid "Parallax Sections"
+msgstr "Secciones de Parallax"
+
+#: inc/accesspress-options.php:139
+msgid "Select Header Layout"
+msgstr "Selecciona la plantilla del header"
+
+#: inc/accesspress-options.php:133
+msgid "Upload Fav Icon"
+msgstr "Subir favicono"
+
+#: inc/options-framework/includes/class-options-media-uploader.php:64
+#: inc/options-framework/includes/class-options-media-uploader.php:117
+#: inc/ajax.php:66 inc/accesspress-options.php:129
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/accesspress-options.php:128
+msgid "Upload Logo"
+msgstr "Subir Logo"
+
+#: inc/accesspress-options.php:120
+msgid "Enable Animation on scroll - Page Elements will show with some animation only in home page."
+msgstr "Habilita la animación al desplazarse - Los Elementos de Página se mostrarán con alguna animación sólo en la página de inicio."
+
+#: inc/accesspress-options.php:115
+msgid "Leave blank if you do not want to show"
+msgstr "Déjalo en blanco si no quieres que se muestre"
+
+#: inc/accesspress-options.php:113
+msgid "Home Menu Text - Single Page Nav(Menu)"
+msgstr "Texto del menú de portada - Navegación de una sola página (Menú)"
+
+#: inc/accesspress-options.php:106
+msgid "Enable Single Page Nav(Menu) - if disabled, will show primary menu"
+msgstr "Habilitar navegación de una sola página (Menú) - si está deshabilitado, mostrará el menú principal"
+
+#: inc/accesspress-options.php:93 inc/accesspress-options.php:107
+#: inc/accesspress-options.php:121 inc/accesspress-options.php:183
+#: inc/accesspress-options.php:190 inc/accesspress-options.php:197
+#: inc/accesspress-options.php:204 inc/accesspress-options.php:296
+msgid "Check To enable"
+msgstr "Marcar para Activar"
+
+#: inc/accesspress-options.php:92
+msgid "Enable Single Page Parallax Home Page - if disabled, will show Blog-roll/Static-page"
+msgstr "Habilitar la página de inicio de Parallax de una sola página - si está deshabilitada, mostrará el blog-roll/página estática"
+
+#: inc/accesspress-options.php:88
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/accesspress-options.php:41
+msgid "No"
+msgstr "No"
+
+#: inc/accesspress-options.php:40
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/options-framework/includes/class-options-sanitization.php:486
+#: inc/ajax.php:49 inc/accesspress-options.php:36
+msgid "Blank Section"
+msgstr "Sección en blanco"
+
+#: inc/options-framework/includes/class-options-sanitization.php:485
+#: inc/ajax.php:48 inc/accesspress-options.php:35
+msgid "Google Map Section"
+msgstr "Sección mapa de Google"
+
+#: inc/options-framework/includes/class-options-sanitization.php:484
+#: inc/ajax.php:47 inc/accesspress-options.php:34
+msgid "Call to Action Section"
+msgstr "Sección de llamada a la acción"
+
+#: inc/options-framework/includes/class-options-sanitization.php:483
+#: inc/ajax.php:46 inc/accesspress-options.php:33
+msgid "Blog Section"
+msgstr "Sección Blog"
+
+#: inc/options-framework/includes/class-options-sanitization.php:482
+#: inc/ajax.php:45 inc/accesspress-options.php:32
+msgid "Testimonial Section"
+msgstr "Sección recomendados"
+
+#: inc/options-framework/includes/class-options-sanitization.php:481
+#: inc/ajax.php:44 inc/accesspress-options.php:31
+msgid "Portfolio Section"
+msgstr "Sección portfolio"
+
+#: inc/options-framework/includes/class-options-sanitization.php:480
+#: inc/ajax.php:43 inc/accesspress-options.php:30
+msgid "Team Section"
+msgstr "Sección Equipo"
+
+#: inc/options-framework/includes/class-options-sanitization.php:479
+#: inc/ajax.php:42 inc/accesspress-options.php:29
+msgid "Service Section"
+msgstr "Sección de servicio"
+
+#: inc/options-framework/includes/class-options-sanitization.php:478
+#: inc/ajax.php:41 inc/accesspress-options.php:28
+msgid "Default Section"
+msgstr "Sección por defecto"
+
+#: inc/options-framework/includes/class-options-sanitization.php:502
+#: inc/ajax.php:115 inc/accesspress-options.php:24
+msgid "Black Dotted"
+msgstr "Punteado negro"
+
+#: inc/options-framework/includes/class-options-sanitization.php:501
+#: inc/ajax.php:114 inc/accesspress-options.php:23
+msgid "Light Black"
+msgstr "Negro Claro"
+
+#: inc/options-framework/includes/class-options-sanitization.php:500
+#: inc/ajax.php:113 inc/accesspress-options.php:22
+msgid "Large Dotted"
+msgstr "Punteado grande"
+
+#: inc/options-framework/includes/class-options-sanitization.php:499
+#: inc/ajax.php:112 inc/accesspress-options.php:21
+msgid "Small Dotted"
+msgstr "Pequeño punteado"
+
+#: inc/options-framework/includes/class-options-sanitization.php:498
+#: inc/ajax.php:111 inc/accesspress-options.php:20
+msgid "No Overlay"
+msgstr "Sin Superposición"
+
+#: inc/accesspress-options.php:16
+msgid "Slide Horizontal"
+msgstr "Deslizamiento horizontal"
+
+#: inc/accesspress-options.php:15
+msgid "Fade"
+msgstr "Fundido"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:142
+msgid "Footer Four"
+msgstr "Pie cuatro"
+
+#: functions.php:132
+msgid "Footer Three"
+msgstr "Pie de página tres"
+
+#: functions.php:122
+msgid "Footer Two"
+msgstr "Pie de página dos"
+
+#: functions.php:112
+msgid "Footer One"
+msgstr "Pie de página uno"
+
+#: functions.php:102
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: layouts/blog-section.php:49
+msgid "Read All"
+msgstr "Leer todos"
+
+#: layouts/blog-section.php:37
+msgid "Read More"
+msgstr "Leer más"
+
+#: content.php:66
+msgid "<i class=\"fa fa-comments\"></i>% Comments"
+msgstr "<i class=\"fa fa-comments\"></i>% Comentarios"
+
+#: content.php:66
+msgid "<i class=\"fa fa-comments\"></i>1 Comment"
+msgstr "<i class=\"fa fa-comments\"></i>1 Comentario"
+
+#: content.php:66
+msgid "<i class=\"fa fa-comments\"></i>Leave a comment"
+msgstr "<i class=\"fa fa-comments\"></i>Deja un comentario"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-search.php:54
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content-search.php:54
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content-search.php:54
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#. translators: Tags list
+#: content.php:60
+msgid "Tagged %1$s"
+msgstr "Etiquetado con %1$s"
+
+#. translators: category list
+#: content.php:48
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#: content-single.php:59 content-page.php:24 content.php:71
+msgid "Edit"
+msgstr "Editar"
+
+#: content-single.php:32 content-page.php:18 content.php:31
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:38
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás intentando localizar. Es posible que te ayude buscarlo."
+
+#: content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero no hay nada que se ajuste a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras claves distintas."
+
+#. translators: 1: link to WP admin new post page.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Está página no se encuentra."
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr "https://accesspressthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/accesspress-parallax/"
+msgstr "https://accesspressthemes.com/wordpress-themes/accesspress-parallax/"
+
+#. Author of the theme
+#: welcome/sections/more_wp_stuff.php:9
+msgid "AccessPress Themes"
+msgstr "AccessPress Themes"

@@ -1,0 +1,664 @@
+# Translation of Themes - Olsen Light in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Olsen Light package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-29 20:27:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Olsen Light\n"
+
+#. Description of the theme
+msgid "Olsen Light is a clean and elegant WordPress blog theme, perfect for lifestyle, food, fashion, travel, health & fitness, photography and beauty blogging. It is 100% responsive, customizable and easy to use. It is also compatible with the most popular page builders like Elementor, Divi, Brizy and Beaver Builder."
+msgstr "Olsen Light es un tema limpio y elegante para blogs de WordPress, perfecto para estilo de vida, comida, moda, viajes, salud y bienestar, fotografía y blogs de belleza. Es 100% adaptable, personalizable y fácil de usar. También es compatible con los constructores de páginas más populares como Elementor, Divi, Brizy y Beaver Builder."
+
+#. Theme Name of the theme
+msgid "Olsen Light"
+msgstr "Olsen Light"
+
+#: functions.php:490
+msgid "Opening Paragraph"
+msgstr "Párrafo de apertura"
+
+#: functions.php:458
+msgid "Demo Import"
+msgstr "Importar Demo"
+
+#: inc/customizer.php:234
+msgid "Shows floating icons on the side of your website. Not visible on mobile devices."
+msgstr "Mostrar iconos flotantes en el lateral de tu web. No es visible en dispositivos móviles."
+
+#: inc/customizer.php:233
+msgid "Site-wide social icons."
+msgstr "Iconos sociales en todo el sitio."
+
+#: inc/customizer.php:158
+msgid "Blog Related Posts section title."
+msgstr "Título de sección de entradas relacionadas del blog."
+
+#: inc/customizer.php:148
+msgid "Show related posts in blog listing. Applies to classic layouts only."
+msgstr "Mostrar entradas relacionadas en las entradas del blog. Solo se aplica en los diseños clásicos."
+
+#: inc/customizer.php:292
+msgid "Fine-tune the homepage slider."
+msgstr "Ajuste el carrusel de la portada."
+
+#: inc/customizer.php:291
+msgid "Home Slider"
+msgstr "Carrusel de portada"
+
+#: inc/customizer.php:99
+msgid "Applies to the categories and tags listing pages."
+msgstr "Se aplica a las páginas de categorías y etiquetas."
+
+#: inc/customizer.php:98
+msgid "Categories and Tags layout"
+msgstr "Maquetación de categorías y etiquetas"
+
+#: inc/customizer.php:87
+msgid "Applies to the home page and blog-related pages."
+msgstr "Se aplica a la página de inicio y a las páginas relacionadas con el blog."
+
+#: inc/customizer.php:86
+msgid "Blog layout"
+msgstr "Diseño del Blog"
+
+#: inc/customizer.php:77
+msgctxt "page layout"
+msgid "Two columns - Sidebar"
+msgstr "Dos columnas - Barra lateral"
+
+#: inc/customizer.php:76
+msgctxt "page layout"
+msgid "Classic - One Sidebar"
+msgstr "Clásico - Una barra lateral"
+
+#: inc/customizer.php:23
+msgctxt "customizer section title"
+msgid "Front Page Carousel"
+msgstr "Carrusel de portada"
+
+#: inc/customizer-controls/slick.php:177
+msgid "Hide post content box"
+msgstr "Ocultar la caja de contenido del blog"
+
+#: inc/customizer-controls/slick.php:169
+msgid "Pause between slides (in milliseconds):"
+msgstr "Pausa entre diapositivas (en milisegundos):"
+
+#: inc/customizer-controls/slick.php:162
+msgctxt "slick slider slide effect"
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: inc/customizer-controls/slick.php:161
+msgctxt "slick slider slide effect"
+msgid "Slide"
+msgstr "Desplazar"
+
+#: inc/customizer-controls/slick.php:159
+msgid "Slide change effect:"
+msgstr "Efecto de cambio de diapositivas:"
+
+#: inc/customizer-controls/slick.php:152
+msgid "Limit posts:"
+msgstr "Limitar entradas:"
+
+#: inc/customizer-controls/slick.php:146
+msgid "Show Recent Posts."
+msgstr "Mostrar entradas recientes."
+
+#: inc/customizer-controls/slick.php:144
+msgid "Check the box below to display your recent posts from all categories. The limit number is still in place and can be modified below."
+msgstr "Marca la siguiente casilla para mostrar tus entradas recientes de todas las categorías. El número de límite todavía tiene efecto y puede modificarse a continuación."
+
+#: inc/customizer-controls/slick.php:137
+msgid "You can optionally provide a comma separated list of post IDs. The specific posts will be shown, overriding the source category above. The limit number is still honoured however."
+msgstr "Opcionalmente, puede proporcionar una lista separada por comas de los ID de las publicaciones. Se mostrarán las entradas específicas, tomando precedencia sobre la categoría mencionada anteriormente. Sin embargo, el número límite sigue siendo respetado."
+
+#: inc/customizer-controls/slick.php:136
+msgid "Post IDs"
+msgstr "IDs de entradas"
+
+#: inc/customizer-controls/slick.php:129
+msgid "Source category"
+msgstr "Categoría de origen"
+
+#: inc/customizer-controls/slick.php:100
+msgid "Auto slide."
+msgstr "Autodeslizamiento."
+
+#: inc/customizer-controls/slick.php:93
+msgid "Show slider."
+msgstr "Mostrar carrusel."
+
+#. Template Name of the theme
+msgid "Page builder"
+msgstr "Constructor de páginas"
+
+#: inc/customizer.php:244
+msgid "Open social and sharing links in a new tab."
+msgstr "Abrir enlaces sociales y para compartir en una nueva pestaña."
+
+#: inc/customizer.php:124
+msgid "Display the excerpt instead of the content."
+msgstr "Mostrar el extracto en lugar del contenido."
+
+#: footer.php:51
+msgid "<a href=\"%1$s\" title=\"%2$s\">Olsen WordPress Theme</a> by <a href=\"%3$s\">CSSIgniter</a>"
+msgstr "<a href=\"%1$s\" title=\"%2$s\">Tema Olsen para WordPress</a> por <a href=\"%3$s\">CSSIgniter</a>"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "Página ancho completo"
+
+#: footer.php:53
+msgid "Blogging theme for WordPress"
+msgstr "Tema de blog para WordPress"
+
+#: single.php:60
+msgid "Next Post"
+msgstr "Entrada siguiente"
+
+#: single.php:57
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:4
+msgctxt "search box placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: index.php:36
+msgid "Search results"
+msgstr "Resultados de Busqueda"
+
+#: index.php:32
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d resultado encontrado."
+msgstr[1] "%d resultados encontrados."
+
+#: index.php:31
+msgid "Just one result found. We either nailed it, or you might want to broaden your terms and search again."
+msgstr "Sólo se encontró un resultado. O bien has acertado, o puede ser que desees ampliar la búsqueda."
+
+#: index.php:30
+msgid "No results found. Please broaden your terms and search again."
+msgstr "No se han encontrado resultados, vuelve a buscar usando términos más amplios."
+
+#: inc/widgets/socials.php:43
+msgid "This widget displays your site's social icons. In order to set them up, you need to visit <strong>Appearance > Customize > Social Networks</strong> and provide the appropriate URLs where desired."
+msgstr "Este widget muestra los iconos sociales de tu sitio. Para configurarlos, debes visitar <strong>Apariencia > Personalizar > Redes sociales</strong> y proporcionar las URL apropiadas."
+
+#: inc/widgets/socials.php:8
+msgid "Theme - Social Icons"
+msgstr "Tema - Iconos sociales"
+
+#: inc/widgets/socials.php:6
+msgid "Displays the site's social icons."
+msgstr "Muestra los iconos sociales del sitio."
+
+#: inc/widgets/latest-posts.php:123
+msgctxt "item layout"
+msgid "Horizontal (small image)"
+msgstr "Horizontal (imagen pequeña)"
+
+#: inc/widgets/latest-posts.php:122
+msgctxt "item layout"
+msgid "Vertical (big image)"
+msgstr "Enlace a la imagen grande"
+
+#: inc/widgets/latest-posts.php:120
+msgid "Item Layout:"
+msgstr "Diseño del artículo:"
+
+#: inc/widgets/latest-posts.php:117
+msgid "Number of posts to show:"
+msgstr "Número de artículos a mostrar:"
+
+#: inc/widgets/latest-posts.php:115
+msgid "Show random posts."
+msgstr "Mostrar publicaciones aleatoriamente."
+
+#: inc/widgets/latest-posts.php:100
+msgid "Category to display the latest posts from (optional):"
+msgstr "Categoría de la que mostrar las últimas entradas (opcional):"
+
+#: inc/widgets/latest-posts.php:8
+msgid "Theme - Latest Posts"
+msgstr "Tema - Últimas entradas"
+
+#: inc/widgets/latest-posts.php:6
+msgid "Displays a number of the latest (or random) posts from a specific category."
+msgstr "Muestra un número últimas (o aleatorias) entradas de una categoría específica."
+
+#: inc/widgets/about-me.php:131
+msgid "Signature Image:"
+msgstr "Imagen de Firma:"
+
+#: inc/widgets/about-me.php:128
+msgid "Signature text:"
+msgstr "Texto de la firma:"
+
+#: inc/widgets/about-me.php:127
+msgid "Greeting (sign off) text:"
+msgstr "Texto de saludo (cierre de sesión):"
+
+#: inc/widgets/about-me.php:125
+msgid "About text:"
+msgstr "Texto Acerca de:"
+
+#: inc/widgets/about-me.php:123
+msgid "Invert widget color scheme."
+msgstr "Invertir la combinación de colores de los widgets."
+
+#: inc/widgets/about-me.php:122
+msgid "Show round image. For this to work, you need a square image. (200&times;200px or higher)."
+msgstr "Mostrar imagen redonda. Para que esto funcione, necesitas una imagen cuadrada. (200&times;200px o superior)."
+
+#: inc/widgets/about-me.php:118 inc/widgets/about-me.php:145
+msgid "Select Image"
+msgstr "Selecciona una imagen"
+
+#: inc/widgets/about-me.php:104
+msgid "Author Image:"
+msgstr "Imagen de autor:"
+
+#: inc/widgets/socials.php:42 inc/widgets/about-me.php:101
+#: inc/widgets/latest-posts.php:98
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/about-me.php:8
+msgid "Theme - About Me"
+msgstr "Tema - Acerca de mí"
+
+#: inc/widgets/about-me.php:6
+msgid "Provide information for the blog author, accompanied by a picture."
+msgstr "Proporcionar información sobre el autor del blog, acompañada de una foto."
+
+#. translators: %s is a URL.
+#: inc/helpers.php:26
+msgid "It looks like the theme was just installed. <a href=\"%s\" target=\"_blank\">Download the sample content</a> to get things moving."
+msgstr "Parece que el tema acaba de ser instalado.<a href=\"%s\" target=\"_blank\">Descargar el contenido de ejemplo</a> para ponerte en marcha."
+
+#: inc/helpers-post-meta.php:462
+msgid "Your gallery images will appear here"
+msgstr "Tu galería de imágenes aparecerá aquí"
+
+#: inc/helpers-post-meta.php:447
+msgid "Randomize order"
+msgstr "Selección aleatoria de orden"
+
+#: inc/helpers-post-meta.php:445
+msgid "Add Images"
+msgstr "Añadir imágenes"
+
+#: inc/helpers-post-meta.php:263
+msgid "Click to toggle"
+msgstr "Clic para alternar"
+
+#: inc/helpers-post-meta.php:30 inc/helpers-post-meta.php:456
+msgid "Remove from gallery"
+msgstr "Quitar de la galería"
+
+#: inc/helpers-post-meta.php:29 inc/widgets/about-me.php:112
+#: inc/widgets/about-me.php:139
+msgid "Remove image"
+msgstr "Eliminar imagen"
+
+#: inc/helpers-post-meta.php:28
+msgid "Gallery preview not available."
+msgstr "Vista previa de galería no disponible."
+
+#: inc/helpers-post-meta.php:27
+msgid "Loading..."
+msgstr "Cargando…"
+
+#: inc/helpers-post-meta.php:26
+msgid "Update gallery"
+msgstr "Actualizar galería"
+
+#: inc/helpers-post-meta.php:25
+msgid "Use these files"
+msgstr "Utilizar estos archivos"
+
+#: inc/helpers-post-meta.php:24
+msgid "Use this file"
+msgstr "Usar este archivo"
+
+#: inc/helpers-post-meta.php:23
+msgid "Select files"
+msgstr "Seleccionar archivos"
+
+#: inc/helpers-post-meta.php:22
+msgid "Select file"
+msgstr "Seleccionar un archivo"
+
+#: inc/functions.php:16
+msgid "Next page"
+msgstr "Próxima página"
+
+#: functions.php:377
+msgid "Spotify"
+msgstr "Spotify"
+
+#: functions.php:382
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/functions.php:15
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: functions.php:367
+msgid "500px"
+msgstr "500px"
+
+#: functions.php:372
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: functions.php:362
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:357
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: functions.php:352
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: functions.php:347
+msgid "YouTube"
+msgstr "Youtube"
+
+#: functions.php:342
+msgid "Bloglovin"
+msgstr "Bloglovin"
+
+#: functions.php:337
+msgid "Flickr"
+msgstr "﻿Flickr"
+
+#: functions.php:332
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: functions.php:322
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: functions.php:327
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: functions.php:317
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions.php:312
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions.php:307
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:331
+msgid "If an image is selected, it will replace the default textual logo (site name) on the header."
+msgstr "Si se selecciona una imagen, ésta reemplazará el logotipo de texto predeterminado (nombre del sitio) en la cabecera."
+
+#: inc/customizer.php:341
+msgid "Logo top padding"
+msgstr "Margen interno inferior del logo"
+
+#: inc/customizer.php:351
+msgid "Logo bottom padding"
+msgstr "Margen interno inferior del logo"
+
+#: inc/customizer.php:360
+msgid "Footer logo"
+msgstr "Logo pie de página"
+
+#: inc/customizer.php:361
+msgid "If an image is selected, it will replace the default textual logo (site name) on the footer."
+msgstr "Si se selecciona una imagen, ésta reemplazará el logotipo de texto predeterminado (nombre del sitio) en el pie de página."
+
+#: functions.php:302
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:330
+msgid "Logo"
+msgstr "Isotipo"
+
+#: part-related.php:4 part-related.php:5 part-related.php:6 part-related.php:7
+#: inc/customizer.php:152 inc/customizer.php:276
+msgid "You may also like"
+msgstr "También te puede interesar"
+
+#: inc/customizer.php:282
+msgid "Related Posts section title"
+msgstr "Sección de entradas relacionadas"
+
+#: inc/customizer.php:306
+msgid "Olsen Pro"
+msgstr "Olsen Pro"
+
+#: inc/customizer.php:308
+msgid "Do you enjoy Olsen Light? Upgrade to Pro now and get:"
+msgstr "¿Te gusta Olsen Light? Mejora a Pro ahora y consigue:"
+
+#: inc/customizer.php:310
+msgid "Multiple layouts"
+msgstr "Múltiples diseños"
+
+#: inc/customizer.php:311
+msgid "Infinite style variations"
+msgstr "Infinitas variaciones de estilo"
+
+#: inc/customizer.php:312
+msgid "Post formats support"
+msgstr "Compatibilidad con formatos de contenido"
+
+#: inc/customizer.php:313
+msgid "More Customizer options"
+msgstr "Más opciones del personalizador"
+
+#: inc/customizer.php:315
+msgid "Upgrade To Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/customizer.php:40
+msgctxt "customizer section title"
+msgid "Posts Options"
+msgstr "Opciones de publicaciones"
+
+#: inc/customizer.php:41
+msgid "These options affect your individual posts."
+msgstr "Estas opciones afectan a tus entradas individuales."
+
+#: inc/customizer.php:46
+msgctxt "customizer section title"
+msgid "Pages Options"
+msgstr "Opciones de página"
+
+#: inc/customizer.php:52
+msgctxt "customizer section title"
+msgid "Footer Options"
+msgstr "Opciones de pie de página"
+
+#: inc/customizer.php:47
+msgid "These options affect your individual pages."
+msgstr "Estas opciones afectan a tus páginas individuales."
+
+#: inc/customizer.php:62
+msgctxt "customizer section title"
+msgid "Upgrade to Pro"
+msgstr "Mejora a Pro"
+
+#: inc/customizer.php:114
+msgid "Automatically generated excerpt length (in words)"
+msgstr "Longitud de extracto generado automáticamente (en palabras)"
+
+#: inc/customizer.php:134
+msgid "Pagination method"
+msgstr "Método de paginación"
+
+#: inc/customizer.php:136
+msgctxt "pagination method"
+msgid "Numbered links"
+msgstr "Enlaces numerados"
+
+#: inc/customizer.php:137
+msgctxt "pagination method"
+msgid "\"Previous - Next\" links"
+msgstr "Enlaces \"Anterior - Siguiente\""
+
+#: inc/customizer.php:172 inc/customizer.php:186
+msgid "Show social icons."
+msgstr "Mostrar iconos sociales."
+
+#: inc/customizer.php:196
+msgid "Show credits text."
+msgstr "Mostrar texto de créditos."
+
+#: inc/customizer.php:208
+msgid "WP Instagram: Slideshow."
+msgstr "WP Instagram: Carrusel."
+
+#: inc/customizer.php:218
+msgid "WP Instagram: Slideshow Speed."
+msgstr "WP Instagram: Velocidad de la carrusel."
+
+#: inc/customizer.php:268
+msgid "RSS Feed"
+msgstr "Alimentación RSS"
+
+#: inc/customizer.php:257
+msgctxt "social network url"
+msgid "%s URL"
+msgstr "URL de %s"
+
+#: inc/customizer.php:34
+msgctxt "customizer section title"
+msgid "Social Networks"
+msgstr "Redes Sociales"
+
+#: inc/customizer.php:35
+msgid "Enter your social network URLs. Leaving a URL empty will hide its respective icon."
+msgstr "Introduce la URL de tus Redes Sociales, dejando una URL vacía ocultarás su icono correspondiente."
+
+#: inc/customizer.php:11
+msgctxt "customizer section title"
+msgid "Header Options"
+msgstr "Opciones de encabezado"
+
+#: inc/customizer.php:18
+msgctxt "customizer section title"
+msgid "Layout Options"
+msgstr "Opciones de diseño"
+
+#: header.php:54
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:206
+msgctxt "widget area"
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:208
+msgid "This is the main sidebar."
+msgstr "Esta es la barra lateral principal."
+
+#: functions.php:216
+msgctxt "widget area"
+msgid "Pages"
+msgstr "Páginas"
+
+#: functions.php:218
+msgid "This sidebar appears on your static pages. If empty, the Blog sidebar will be shown instead."
+msgstr "Esta barra lateral aparece en tus páginas estáticas. Si está vacía, se mostrará la barra lateral del Blog."
+
+#: functions.php:226
+msgctxt "widget area"
+msgid "Footer Sidebar"
+msgstr "Barra lateral del pie de página"
+
+#: functions.php:228
+msgid "Special site-wide sidebar for the WP Instagram Widget plugin."
+msgstr "Barra lateral especial en todo el sitio para el plugin WP Instagram Widget."
+
+#: functions.php:290
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+#: functions.php:165
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lora and Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:88
+msgctxt "Lora and Lato fonts: on or off"
+msgid "on"
+msgstr "activada"
+
+#: functions.php:164 inc/customizer.php:316
+msgid "Documentation"
+msgstr "Documentación"
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:54
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: 404.php:15
+msgid "The page you were looking for can not be found! Perhaps try searching?"
+msgstr "¡Vaya! No se encontró la página que buscabas. ¿Tal vez la búsqueda puede ayudarte?"
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Por favor, no cargue a esta página directamente. ¡Gracias!"
+
+#: part-slider.php:69 content-entry.php:66
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: 404.php:11
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#. Author URI of the theme
+msgid "https://www.cssigniter.com"
+msgstr "https://www.cssigniter.com"
+
+#. Author of the theme
+msgid "CSSIgniter"
+msgstr "CSSIgniter"
+
+#. Theme URI of the theme
+msgid "https://www.cssigniter.com/themes/olsen-light/"
+msgstr "https://www.cssigniter.com/themes/olsen-light/"

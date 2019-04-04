@@ -1,0 +1,198 @@
+# Translation of Plugins - WP Google Map - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Google Map - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-31 21:40:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Google Map - Development (trunk)\n"
+
+#: includes/gmap.php:42
+msgid "See Video"
+msgstr "Ver video"
+
+#. Author of the plugin
+msgid "srmilon.info"
+msgstr "srmilon.info"
+
+#: includes/gmap.php:38
+msgid "Having Problem?"
+msgstr "¿Tienes algún problema?"
+
+#: includes/wpgmap_settings.php:29
+msgid "GET LICENSE KEY"
+msgstr "OBTÉN UNA CLAVE DE LICENCIA"
+
+#: includes/wpgmap_settings.php:23
+msgid "License Key: "
+msgstr "Clave de licencia: "
+
+#: srm_gmap_embed.php:213
+msgid "You have not created any Map yet. "
+msgstr "Aún no has creado ningún mapa."
+
+#: includes/wpgmap_settings.php:18
+msgid "The API key may take up to 5 minutes to take effect"
+msgstr "La clave API puede tardar hasta 5 minutos en aplicarse"
+
+#: includes/shortcodes.php:166
+msgid "Loading"
+msgstr "Cargando"
+
+#: includes/shortcodes.php:164
+msgid "Get Directions"
+msgstr "Obtener las direcciones"
+
+#: includes/shortcodes.php:160
+msgid "Bicycling"
+msgstr "En bicicleta"
+
+#: includes/shortcodes.php:159
+msgid "Walking"
+msgstr "Caminando"
+
+#: includes/shortcodes.php:158
+msgid "Driving"
+msgstr "Conduciendo"
+
+#: includes/shortcodes.php:156
+msgid "Transportation method"
+msgstr "Modo de transporte"
+
+#: includes/shortcodes.php:152
+msgid "To"
+msgstr "A"
+
+#: includes/shortcodes.php:148
+msgid "From"
+msgstr "Desde"
+
+#: includes/wpgmap_edit.php:116 includes/wpgmap_create.php:100
+msgid "Enable Direction in Map"
+msgstr "Activar dirección en el mapa"
+
+#: includes/gmap.php:77
+msgid "Map Updated Successfully."
+msgstr "Mapa actualizado con exíto."
+
+#: includes/gmap.php:74
+msgid "Map has been created Successfully."
+msgstr "El mapa se ha creado con exíto."
+
+#: includes/wpgmap_edit.php:56 includes/wpgmap_create.php:48
+msgid "Disable zoom on mouse scroll"
+msgstr "Desactivar el zoom para el scroll del ratón."
+
+#: includes/gmap.php:80
+msgid "Settings updated Successfully."
+msgstr "Ajustes actualizados con éxito."
+
+#: includes/wpgmap_edit.php:19 includes/wpgmap_create.php:13
+msgid "Map Title"
+msgstr "Título del mapa"
+
+#: includes/wpgmap_edit.php:27 includes/wpgmap_create.php:20
+msgid "Show as map title"
+msgstr "Mostrar como título del mapa"
+
+#: includes/wpgmap_edit.php:39 includes/wpgmap_create.php:25
+msgid "Latitude, Longitude"
+msgstr "Latitud, longitud"
+
+#: includes/wpgmap_edit.php:32 includes/wpgmap_create.php:32
+msgid "Heading Custom Class"
+msgstr "Clase personalizada para el encabezado"
+
+#: includes/wpgmap_edit.php:48 includes/wpgmap_create.php:40
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/wpgmap_edit.php:64 includes/wpgmap_create.php:55
+msgid "Width (%)"
+msgstr "Anchura (%)"
+
+#: includes/wpgmap_edit.php:73 includes/wpgmap_create.php:63
+msgid "Height (px)"
+msgstr "Altura (px)"
+
+#: includes/wpgmap_edit.php:82 includes/wpgmap_create.php:71
+msgid "Map Type"
+msgstr "Tipo de mapa"
+
+#: includes/wpgmap_edit.php:99 includes/wpgmap_create.php:83
+msgid "Location Address"
+msgstr "Dirección del lugar"
+
+#: includes/wpgmap_edit.php:125 includes/wpgmap_create.php:112
+msgid "Search by Address, Zip Code"
+msgstr "Buscar por dirección, código postal"
+
+#: includes/wpgmap_settings.php:13 includes/wpgmap_settings.php:25
+#: includes/wpgmap_create.php:125
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/wpgmap_edit.php:145
+msgid "Update"
+msgstr "Actualizar"
+
+#: srm_gmap_embed.php:77
+msgid "Add new Map"
+msgstr "Añadir nuevo mapa"
+
+#: srm_gmap_embed.php:77
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: srm_gmap_embed.php:203
+msgid "Change"
+msgstr "Cambiar"
+
+#. Plugin Name of the plugin
+msgid "Google Map Embed"
+msgstr "Google Maps Embed"
+
+#: includes/wpgmap_settings.php:17
+msgid "GET FREE API KEY"
+msgstr "OBTENER CLAVE DE API"
+
+#: includes/wpgmap_settings.php:11
+msgid "Enter API Key"
+msgstr "Introduce la clave de API"
+
+#: includes/wpgmap_settings.php:8
+msgid "Notice: The plugin requires following API key."
+msgstr "Nota: El plugin requiere la siguiente clave de API."
+
+#: includes/wpgmap_edit.php:108 includes/wpgmap_create.php:92
+msgid "Show in marker infowindow"
+msgstr "Mostrar en ventana de información del marcador"
+
+#. Description of the plugin
+msgid "The plugin will help to embed Google Map in post and pages also in sidebar as widget."
+msgstr "El plugin te ayudará a insertar mapas de Google en entradas, páginas y también en la barra lateral con un widget."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.srmilon.info"
+msgstr "http://www.srmilon.info"
+
+#: includes/gmap.php:23
+msgid "All Maps"
+msgstr "Todos los mapas"
+
+#: includes/gmap.php:28 srm_gmap_embed.php:215
+msgid "Create New Map"
+msgstr "Crear nuevo mapa"
+
+#: includes/gmap.php:33
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/gmap.php:86
+msgid "Map Deleted Successfully."
+msgstr "Mapa borrado con éxito."

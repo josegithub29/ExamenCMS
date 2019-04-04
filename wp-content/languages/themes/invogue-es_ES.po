@@ -1,0 +1,32 @@
+# Translation of Themes - InVogue in Spanish (Spain)
+# This file is distributed under the same license as the Themes - InVogue package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-16 11:05:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - InVogue\n"
+
+#. Theme Name of the plugin/theme
+msgid "InVogue"
+msgstr "InVogue"
+
+#. Description of the plugin/theme
+msgid "InVogue is a new redesigned look for the popular multipurpose WooCommerce theme, Vogue. Build a professional website or an eCommerce store easily by adding our recommended top plugins from WooCommerce to Page Builders and lots more. InVogue is simple, beautiful, clean but comes packed with a bunch of layout settings, full theme color settings and lots more... InVogue is the theme you want, build easily and professional websites now! Give it a go!"
+msgstr "InVogue es un nuevo look rediseñado para el popular tema multiusos de WooCommerce, Vogue. Construye un sitio web profesional o una tienda de comercio electrónico fácilmente añadiendo nuestros plugins recomendados de WooCommerce a Page Builders y mucho más. InVogue es simple, hermoso, limpio, pero viene con un montón de ajustes de diseño, ajustes de color de tema completo y mucho más.... InVogue es el tema que quieres, ¡construye fácilmente sitios web profesionales! ¡Inténtalo!"
+
+#. Author URI of the plugin/theme
+msgid "https://kairaweb.com/"
+msgstr "https://kairaweb.com/"
+
+#. Author of the plugin/theme
+msgid "Kaira"
+msgstr "Kaira"
+
+#. Theme URI of the plugin/theme
+msgid "https://kairaweb.com/child-theme/invogue/"
+msgstr "https://kairaweb.com/child-theme/invogue/"
